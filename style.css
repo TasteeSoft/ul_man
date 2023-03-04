@@ -1,0 +1,17 @@
+table {
+    background-color: aquamarine;
+}
+
+td:hover {
+    background-color: yellow;
+}
+
+tr:nth-child(odd) {
+background-color: white;
+}
+
+th {
+    background-color: gray;
+    color: aliceblue;
+    /* color ist schrift */
+}
